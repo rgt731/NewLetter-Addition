@@ -1,0 +1,53 @@
+/*<!--css for header-->*/
+body{
+   background: url(images/BackGround.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+.headerContainer{
+    background-color:rgba(190, 225, 255, 0.7); 
+   
+    margin:20px;
+      
+}
+.headerContainer .col-md-3{
+    width:13%;
+}
+.headerContainer .col-md-5{
+    width: 26%;
+}
+
+.headerImage{
+    height:140px; 
+    padding:2px;
+    border:none; 
+
+}
+.headerText{
+    font-family: phosphate; 
+    width:100%;
+    text-align: left;
+ 
+}
+.headerText .h1, h1{
+        font-size: 65px;
+}
+.headerText1{
+    font-family: Futura; 
+        font-size: 20px;
+}
+.headerText1 .p {
+    
+}
+.headerText2{
+    font-family: Rockwell; 
+        font-size: 20px;
+}
+/*<!--css for middle-->*/
+
+
+/*<!--css for bottom-->*/
+
